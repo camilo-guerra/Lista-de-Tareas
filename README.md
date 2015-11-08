@@ -11,9 +11,9 @@ Is an app web that provide a service in  a single list for two or tree users, th
 
 Para probar la aplicación en uso dirigirse al siguiente link:
 
-<a src="http://lista-tareas.meteor.com" > Lista de tareas </a>
+http://lista-tareas.meteor.com
 
 For see the app in action please click in the next link:
 
-<a src="http://lista-tareas.meteor.com" > To do List</a>
+http://lista-tareas.meteor.com
 

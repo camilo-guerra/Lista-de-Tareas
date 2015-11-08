@@ -13,7 +13,7 @@ Para probar la aplicación en uso dirigirse al siguiente link:
 
 http://lista-tareas.meteor.com
 
-For see the app in action please click in the next link:
+If you wanna  see the app in action please click in the next link:
 
 http://lista-tareas.meteor.com
 

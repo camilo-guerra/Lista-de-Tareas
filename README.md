@@ -6,4 +6,14 @@ App web que permite hacer una lista de tareas entre varias personas, para hacerl
 
 
 <h2> To do List in Meteor <h2>
-Is an app web that provide a service for a single list for two or tree users, they can write them own tasks and share with the other users.
+Is an app web that provide a service in  a single list for two or tree users, they can write them own tasks and share with the other users.
+
+
+Para probar la aplicación en uso dirigirse al siguiente link:
+
+<a src="http://lista-tareas.meteor.com" > Lista de tareas </a>
+
+For see the app in action please click in the next link:
+
+<a src="http://lista-tareas.meteor.com" > To do List</a>
+
